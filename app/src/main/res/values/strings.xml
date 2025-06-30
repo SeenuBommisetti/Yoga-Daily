@@ -1,0 +1,222 @@
+<resources>
+    <string name="app_name">Yoga Daily</string>
+
+    <string name="developer_signature">Made with ❤️ by Seenu</string>
+    <string name="benefits">Benefits:</string>
+    <string name="steps">Steps:</string>
+
+    <string name="day_1">Day 1</string>
+    <string name="day_1_title">Tadasana (Mountain Pose)</string>
+    <string name="day_1_benefits">Improves posture, balance, and focus</string>
+    <string name="day_1_step_1">Stand tall, feet together</string>
+    <string name="day_1_step_2">Inhale, raise arms overhead</string>
+    <string name="day_1_step_3">Stretch upward, lift heels</string>
+    <string name="day_1_step_4">Hold for 5–10 breaths</string>
+
+    <string name="day_2">Day 2</string>
+    <string name="day_2_title">Vrikshasana (Tree Pose)</string>
+    <string name="day_2_benefits">Improves balance and leg strength</string>
+    <string name="day_2_step_1">Stand on one leg</string>
+    <string name="day_2_step_2">Place the other foot on inner thigh</string>
+    <string name="day_2_step_3">Join palms at chest or overhead</string>
+    <string name="day_2_step_4">Hold and breathe steadily</string>
+
+    <string name="day_3">Day 3</string>
+    <string name="day_3_title">Adho Mukha Svanasana (Downward Dog)</string>
+    <string name="day_3_benefits">Stretches spine, hamstrings, and calves</string>
+    <string name="day_3_step_1">From hands and knees, lift hips up</string>
+    <string name="day_3_step_2">Form an inverted V</string>
+    <string name="day_3_step_3">Keep spine straight, heels toward floor</string>
+
+    <string name="day_4">Day 4</string>
+    <string name="day_4_title">Bhujangasana (Cobra Pose)</string>
+    <string name="day_4_benefits">Opens chest, strengthens back</string>
+    <string name="day_4_step_1">Lie on belly, palms under shoulders</string>
+    <string name="day_4_step_2">Inhale, lift chest</string>
+    <string name="day_4_step_3">Elbows bent, shoulders down</string>
+
+    <string name="day_5">Day 5</string>
+    <string name="day_5_title">Trikonasana (Triangle Pose)</string>
+    <string name="day_5_benefits">Improves flexibility, digestion</string>
+    <string name="day_5_step_1">Stand with legs wide</string>
+    <string name="day_5_step_2">Extend arms to sides</string>
+    <string name="day_5_step_3">Reach one arm down, other up</string>
+    <string name="day_5_step_4">Gaze up</string>
+
+    <string name="day_6">Day 6</string>
+    <string name="day_6_title">Paschimottanasana (Seated Forward Bend)</string>
+    <string name="day_6_benefits">Calms mind, stretches hamstrings</string>
+    <string name="day_6_step_1">Sit with legs extended</string>
+    <string name="day_6_step_2">Inhale, raise arms</string>
+    <string name="day_6_step_3">Exhale, bend forward from hips</string>
+
+    <string name="day_7">Day 7</string>
+    <string name="day_7_title">Ustrasana (Camel Pose)</string>
+    <string name="day_7_benefits">Opens chest, stretches front body</string>
+    <string name="day_7_step_1">Kneel, hands on hips</string>
+    <string name="day_7_step_2">Lean back, place hands on heels</string>
+    <string name="day_7_step_3">Lift chest, drop head back</string>
+
+    <string name="day_8">Day 8</string>
+    <string name="day_8_title">Setu Bandhasana (Bridge Pose)</string>
+    <string name="day_8_benefits">Strengthens back and legs, relieves anxiety</string>
+    <string name="day_8_step_1">Lie on back, knees bent</string>
+    <string name="day_8_step_2">Feet hip-width apart</string>
+    <string name="day_8_step_3">Lift hips, clasp hands under back</string>
+
+    <string name="day_9">Day 9</string>
+    <string name="day_9_title">Dhanurasana (Bow Pose)</string>
+    <string name="day_9_benefits">Opens chest, improves posture</string>
+    <string name="day_9_step_1">Lie on stomach, bend knees</string>
+    <string name="day_9_step_2">Grab ankles</string>
+    <string name="day_9_step_3">Inhale, lift chest and legs</string>
+
+    <string name="day_10">Day 10</string>
+    <string name="day_10_title">Virabhadrasana I (Warrior I)</string>
+    <string name="day_10_benefits">Strengthens legs, boosts endurance</string>
+    <string name="day_10_step_1">Step one leg forward</string>
+    <string name="day_10_step_2">Bend front knee, back leg straight</string>
+    <string name="day_10_step_3">Raise arms overhead</string>
+
+    <string name="day_11">Day 11</string>
+    <string name="day_11_title">Virabhadrasana II (Warrior II)</string>
+    <string name="day_11_benefits">Builds stamina, tones legs</string>
+    <string name="day_11_step_1">Step one leg forward</string>
+    <string name="day_11_step_2">Extend arms parallel</string>
+    <string name="day_11_step_3">Gaze over front hand</string>
+
+    <string name="day_12">Day 12</string>
+    <string name="day_12_title">Garudasana (Eagle Pose)</string>
+    <string name="day_12_benefits">Improves focus and balance</string>
+    <string name="day_12_step_1">Wrap one arm under the other</string>
+    <string name="day_12_step_2">Cross one leg over the other</string>
+    <string name="day_12_step_3">Bend knees slightly, hold position</string>
+
+    <string name="day_13">Day 13</string>
+    <string name="day_13_title">Halasana (Plow Pose)</string>
+    <string name="day_13_benefits">Relieves back pain, calms the mind</string>
+    <string name="day_13_step_1">Lie on back, lift legs over head</string>
+    <string name="day_13_step_2">Touch toes to floor behind head</string>
+    <string name="day_13_step_3">Support back with hands if needed</string>
+
+    <string name="day_14">Day 14</string>
+    <string name="day_14_title">Sarvangasana (Shoulder Stand)</string>
+    <string name="day_14_benefits">Improves thyroid and blood flow</string>
+    <string name="day_14_step_1">Lie on back, lift legs</string>
+    <string name="day_14_step_2">Support hips with hands</string>
+    <string name="day_14_step_3">Keep body straight, toes up</string>
+
+    <string name="day_15">Day 15</string>
+    <string name="day_15_title">Matsyasana (Fish Pose)</string>
+    <string name="day_15_benefits">Stretches chest, improves posture</string>
+    <string name="day_15_step_1">Lie on back, arms under hips</string>
+    <string name="day_15_step_2">Lift chest, arch back</string>
+    <string name="day_15_step_3">Top of head touches floor</string>
+
+    <string name="day_16">Day 16</string>
+    <string name="day_16_title">Navasana (Boat Pose)</string>
+    <string name="day_16_benefits">Strengthens core and spine</string>
+    <string name="day_16_step_1">Sit with legs extended</string>
+    <string name="day_16_step_2">Lift legs, form a V</string>
+    <string name="day_16_step_3">Arms parallel to floor</string>
+
+    <string name="day_17">Day 17</string>
+    <string name="day_17_title">Bakasana (Crow Pose)</string>
+    <string name="day_17_benefits">Builds arm strength and focus</string>
+    <string name="day_17_step_1">Squat, place hands on floor</string>
+    <string name="day_17_step_2">Lift feet, balance on arms</string>
+    <string name="day_17_step_3">Look forward, engage core</string>
+
+    <string name="day_18">Day 18</string>
+    <string name="day_18_title">Balasana (Children Pose)</string>
+    <string name="day_18_benefits">Relaxes body and mind</string>
+    <string name="day_18_step_1">Kneel, sit on heels</string>
+    <string name="day_18_step_2">Fold forward, arms forward</string>
+    <string name="day_18_step_3">Forehead to mat, breathe deeply</string>
+
+    <string name="day_19">Day 19</string>
+    <string name="day_19_title">Padmasana (Lotus Pose)</string>
+    <string name="day_19_benefits">Promotes relaxation and meditation</string>
+    <string name="day_19_step_1">Sit cross-legged, each foot on opposite thigh</string>
+    <string name="day_19_step_2">Spine erect, hands on knees</string>
+    <string name="day_19_step_3">Breathe deeply, eyes closed</string>
+
+    <string name="day_20">Day 20</string>
+    <string name="day_20_title">Sukhasana (Easy Pose)</string>
+    <string name="day_20_benefits">Improves mindfulness, calms mind</string>
+    <string name="day_20_step_1">Sit cross-legged</string>
+    <string name="day_20_step_2">Place hands on knees</string>
+    <string name="day_20_step_3">Keep spine straight, relax</string>
+
+    <string name="day_21">Day 21</string>
+    <string name="day_21_title">Marjaryasana (Cat Pose)</string>
+    <string name="day_21_benefits">Improves spine flexibility</string>
+    <string name="day_21_step_1">Come to hands and knees</string>
+    <string name="day_21_step_2">Exhale, round spine up</string>
+    <string name="day_21_step_3">Tuck chin toward chest</string>
+
+    <string name="day_22">Day 22</string>
+    <string name="day_22_title">Bitilasana (Cow Pose)</string>
+    <string name="day_22_benefits">Warms up spine, reduces back pain</string>
+    <string name="day_22_step_1">From Cat Pose, inhale</string>
+    <string name="day_22_step_2">Drop belly, lift head and tailbone</string>
+    <string name="day_22_step_3">Repeat with breath flow</string>
+
+    <string name="day_23">Day 23</string>
+    <string name="day_23_title">Parivrtta Trikonasana (Revolved Triangle)</string>
+    <string name="day_23_benefits">Improves balance and digestion</string>
+    <string name="day_23_step_1">Start in triangle stance</string>
+    <string name="day_23_step_2">Twist torso, opposite hand to foot</string>
+    <string name="day_23_step_3">Extend other arm up, gaze upward</string>
+
+    <string name="day_24">Day 24</string>
+    <string name="day_24_title">Ardha Matsyendrasana (Half Spinal Twist)</string>
+    <string name="day_24_benefits">Improves spinal mobility, detoxifies</string>
+    <string name="day_24_step_1">Sit, bend right leg, cross left over</string>
+    <string name="day_24_step_2">Right elbow on left knee</string>
+    <string name="day_24_step_3">Twist torso to left</string>
+
+    <string name="day_25">Day 25</string>
+    <string name="day_25_title">Ananda Balasana (Happy Baby)</string>
+    <string name="day_25_benefits">Releases hip tension, calms mind</string>
+    <string name="day_25_step_1">Lie on back, bend knees to chest</string>
+    <string name="day_25_step_2">Hold feet from outside</string>
+    <string name="day_25_step_3">Press knees toward armpits</string>
+
+    <string name="day_26">Day 26</string>
+    <string name="day_26_title">Viparita Karani (Legs Up the Wall)</string>
+    <string name="day_26_benefits">Relieves tired legs, improves circulation</string>
+    <string name="day_26_step_1">Lie near a wall</string>
+    <string name="day_26_step_2">Extend legs up against wall</string>
+    <string name="day_26_step_3">Arms relaxed, eyes closed</string>
+
+    <string name="day_27">Day 27</string>
+    <string name="day_27_title">Utkatasana (Chair Pose)</string>
+    <string name="day_27_benefits">Strengthens thighs, improves focus</string>
+    <string name="day_27_step_1">Stand, feet together</string>
+    <string name="day_27_step_2">Bend knees, lower hips</string>
+    <string name="day_27_step_3">Raise arms overhead, spine straight</string>
+
+    <string name="day_28">Day 28</string>
+    <string name="day_28_title">Baddha Konasana (Bound Angle Pose)</string>
+    <string name="day_28_benefits">Opens hips, improves circulation</string>
+    <string name="day_28_step_1">Sit, soles of feet together</string>
+    <string name="day_28_step_2">Hold feet, keep spine tall</string>
+    <string name="day_28_step_3">Gently press knees down</string>
+
+    <string name="day_29">Day 29</string>
+    <string name="day_29_title">Malasana (Garland Pose)</string>
+    <string name="day_29_benefits">Opens hips, improves digestion</string>
+    <string name="day_29_step_1">Squat with feet flat</string>
+    <string name="day_29_step_2">Elbows inside knees, palms together</string>
+    <string name="day_29_step_3">Spine straight, gaze forward</string>
+
+    <string name="day_30">Day 30</string>
+    <string name="day_30_title">Savasana (Corpse Pose)</string>
+    <string name="day_30_benefits">Promotes deep relaxation and recovery</string>
+    <string name="day_30_step_1">Lie flat on back</string>
+    <string name="day_30_step_2">Arms relaxed, palms up</string>
+    <string name="day_30_step_3">Close eyes, breathe naturally</string>
+
+
+</resources>
