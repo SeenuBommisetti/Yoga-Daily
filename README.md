@@ -32,7 +32,7 @@
 To run the app locally:
 
 ```bash
-git clone https://github.com/yourusername/Yoga-Daily.git
+git clone https://github.com/SeenuBommisetti/Yoga-Daily.git
 1.Open the project in Android Studio
 2.Sync Gradle
 3.Run the app on an emulator or physical device
